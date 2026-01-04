@@ -1,0 +1,51 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# Build outputs
+build/
+**/build/
+**/outputs/
+**/intermediates/
+
+# APKs and other binaries
+*.apk
+*.ap_
+*.aab
+*.so
+*.dylib
+*.dll
+*.exe
+
+# iOS/macOS
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+macos/Flutter/ephemeral/
+
+# Android Studio/IntelliJ
+*.iml
+.idea/
+.gradle/
+local.properties
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Generated files
+*.lock
+*.tmp
+*.swp
+
+# Coverage
+coverage/
+
+# Misc
+.DS_Store
+*.class
