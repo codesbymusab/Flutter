@@ -59,22 +59,6 @@ Data handling
 Theming & styling
 
 
-📚 Study Buddy – Smart Study Planning & Progress Tracking App
-
-Study Buddy is a Flutter-based productivity application designed to help students plan, track, and analyze their study habits through structured schedules, progress dashboards, and smart reminders.
-
-🎯 Key Features
-
-🧑‍🎓 User Dashboard
-
-⏰ Study Reminders & Notifications
-
-📝 Study Planning
-
-📊 Progress Analytics
-
-
-
 🎯 Learning Goals
 
 Build production-quality Flutter apps
@@ -96,6 +80,7 @@ Learning Riverpod for state management and Firebase for Authentication
 Applying Clean Architecture
 
 Building a capstone Flutter app
+
 
 📸 Screenshots & Demos
 
